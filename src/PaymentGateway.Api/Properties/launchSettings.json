@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "https://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
@@ -11,10 +11,8 @@
   "profiles": {
     "PaymentGateway.Api": {
       "commandName": "Project",
-      "dotnetRunMessages": true,
       "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7092;http://localhost:5067",
+      "applicationUrl": "http://localhost:56263",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
